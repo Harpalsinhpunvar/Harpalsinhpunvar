@@ -5,9 +5,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I am Java developer.
-- 🌱 I’m currently learning c and c++ language.
-- 👯 I’m looking to collaborate on c or c++ language programming for project.
-- 🤔 I’m looking for help with Mentor who have vast knowledge in c and c++ programming language.
+- 🌱 I have experience with c++ language.
+- 👯 I’m looking to collaborate on Java programming for project.
+- 🤔 I’m looking for help with Mentor who have vast knowledge in Java programming language.
 - 💬 Ask me about experience and vision in computer science.
 - 📫 How to reach me: harpalsinhxv@gmail.com
 - 😄 Pronouns: ...
