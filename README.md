@@ -1,8 +1,9 @@
 Hi there,
+- I am a software engineer with 3+ years of experience in software development, providing production support and testing. I am excellent in Java, Spring, and Spring Boot.   Also, I am a super explorer.
+- I work at India's Second largest IT service provider company, Infosys Limited.
 
-- I am a software engineer with more than one year of experienced in software development, provide support and also testing. I am very good in Java, Spring, Spring boot.   Also, I am super explorer.
-- I work at Indian Second largest IT service provider company which is Infosys Limited.
-
-Reach out me:
+Let's catch up:
 - harpalsinhxv@gmail.com
+- shareproblem@selscript.com
+- www.selscript.com
 
